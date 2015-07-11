@@ -1,0 +1,57 @@
+[
+  {
+    "startdate": "2013-01-01",
+    "enddate": "2014-01-01",
+    "title": "A longer title for a job",
+    "shorttitle": "Job title",
+    "type": "job",
+    "glyph": "star",
+    "description": "<ul><li>Thing A</li><li>Thing B</li></ul>"
+  },
+   {
+    "startdate": "2007-01-01",
+    "enddate": "2013-01-01",
+    "title": "A longer title for an education",
+    "shorttitle": "Education title",
+    "type": "education",
+    "glyph": "star",
+    "description": "<ul><li>Thing A</li><li>Thing B</li></ul>"
+  },
+  {
+    "startdate": "2014-01-01",
+    "enddate": "2015-01-01",
+    "title": "A longer title for something else",
+    "shorttitle": "Other title",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Thing A</li><li>Thing B</li></ul>"
+  },
+  {
+    "startdate": "2014-01-01",
+    "enddate": "",
+    "title": "A longer title for something else that is still going on",
+    "shorttitle": "Other title",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Thing A</li><li>Thing B</li></ul>"
+  },
+  {
+    "startdate": "2014-01-01",
+    "enddate": "2014-02-01",
+    "title": "A longer title for something",
+    "shorttitle": "Other title",
+    "type": "education",
+    "glyph": "star",
+    "description": "<ul><li>Thing A</li><li>Thing B</li></ul>"
+  },
+  {
+    "startdate": "2008-01-01",
+    "enddate": "2008-01-01",
+    "title": "A longer title for something short",
+    "shorttitle": "Other title",
+    "type": "other",
+    "glyph": "star",
+    "description": "<ul><li>Thing A</li><li>Thing B</li></ul>"
+  }
+
+]
